@@ -1,4 +1,4 @@
-package InputDeDados;
+package NivelBasico.InputDeDados;
 
 import java.util.Scanner;
 
