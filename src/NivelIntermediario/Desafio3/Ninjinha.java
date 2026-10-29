@@ -1,4 +1,4 @@
-package NivelIntermediario.Desafios;
+package NivelIntermediario.Desafio3;
 
 public class Ninjinha {
     String nome;
@@ -6,7 +6,7 @@ public class Ninjinha {
     String nivelDeDificuldade;
     String missao;
 
-    public void mostrarInformacao(){
+    public void mostrarInformacoes(){
         System.out.println("\nNome: "+ nome + "\nIdade: "+ idade + "\nDificuldade: "+ nivelDeDificuldade + "\nMissão: "+ missao);
     }
 }

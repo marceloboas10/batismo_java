@@ -24,5 +24,11 @@ public class Main {
 
         System.out.println(goku.nome);
         System.out.println(naruto.nome);
+
+        Sayajin gohan = new Sayajin();
+        gohan.nome = "Gohan";
+        gohan.idade = 13;
+        gohan.Kamehameha();
+        gohan.GenkiDama();
     }
 }
